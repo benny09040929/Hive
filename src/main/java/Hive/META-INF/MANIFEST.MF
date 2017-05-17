@@ -1,0 +1,71 @@
+Manifest-Version: 1.0
+Class-Path: hive-shims-scheduler-2.1.1.jar hadoop-yarn-api-2.6.1.jar j
+ ta-1.1.jar log4j-core-2.4.1.jar jsr305-1.3.9.jar curator-client-2.6.0
+ .jar commons-lang-2.6.jar hive-service-2.1.1.jar jackson-annotations-
+ 2.4.0.jar hbase-prefix-tree-1.1.1.jar commons-io-2.4.jar disruptor-3.
+ 3.0.jar jersey-server-1.9.jar metrics-jvm-3.1.0.jar commons-digester-
+ 1.8.jar apacheds-i18n-2.0.0-M15.jar hive-common-2.1.1.jar parquet-had
+ oop-bundle-1.8.1.jar hive-jdbc-2.1.1.jar snappy-0.2.jar hbase-annotat
+ ions-1.1.1.jar tools.jar jasper-runtime-5.5.23.jar junit-4.11.jar xml
+ -apis-1.3.04.jar hive-llap-common-2.1.1.jar hive-shims-2.1.1.jar hive
+ -llap-server-2.1.1.jar jetty-all-7.6.0.v20120127.jar jsp-api-2.1-6.1.
+ 14.jar tephra-core-0.6.0.jar hive-llap-client-2.1.1.jar tephra-api-0.
+ 6.0.jar twill-core-0.6.0-incubating.jar log4j-1.2.17.jar jaxb-impl-2.
+ 2.3-1.jar twill-api-0.6.0-incubating.jar hadoop-mapreduce-client-core
+ -2.5.1.jar hadoop-hdfs-2.6.1.jar ant-1.9.1.jar tephra-hbase-compat-1.
+ 0-0.6.0.jar hadoop-client-2.7.1.jar derby-10.10.2.0.jar hive-service-
+ rpc-2.1.1.jar hive-serde-2.1.1.jar commons-beanutils-1.7.0.jar hbase-
+ hadoop-compat-1.1.1.jar hadoop-mapreduce-client-common-2.7.1.jar jpam
+ -1.1.jar geronimo-jaspic_1.0_spec-1.0.jar antlr-2.7.7.jar datanucleus
+ -core-4.1.6.jar commons-pool-1.5.4.jar slf4j-api-1.7.10.jar protobuf-
+ java-2.5.0.jar netty-all-4.0.23.Final.jar guice-3.0.jar antlr-runtime
+ -3.4.jar datanucleus-rdbms-4.1.7.jar jsch-0.1.42.jar jersey-core-1.9.
+ jar commons-net-3.1.jar hadoop-yarn-server-common-2.6.1.jar commons-d
+ aemon-1.0.13.jar api-util-1.0.0-M20.jar mail-1.4.1.jar javax.inject-1
+ .jar jackson-mapper-asl-1.9.13.jar jettison-1.1.jar log4j-slf4j-impl-
+ 2.4.1.jar xercesImpl-2.9.1.jar hive-llap-tez-2.1.1.jar metrics-core-3
+ .1.0.jar json-20090211.jar hadoop-yarn-server-applicationhistoryservi
+ ce-2.6.1.jar javax.jdo-3.2.0-m3.jar jamon-runtime-2.3.1.jar hadoop-au
+ th-2.6.4.jar commons-math-2.2.jar hive-metastore-2.1.1.jar hadoop-yar
+ n-registry-2.7.1.jar jaxb-api-2.2.2.jar avro-1.7.4.jar jcodings-1.0.8
+ .jar commons-el-1.0.jar gson-2.2.4.jar asm-tree-3.1.jar log4j-web-2.4
+ .1.jar commons-httpclient-3.1.jar jsp-api-2.1.jar hbase-protocol-1.1.
+ 1.jar twill-common-0.6.0-incubating.jar hive-orc-2.1.1.jar twill-disc
+ overy-api-0.6.0-incubating.jar jackson-xc-1.8.3.jar aopalliance-1.0.j
+ ar hbase-client-1.1.1.jar commons-codec-1.4.jar hbase-procedure-1.1.1
+ .jar jetty-sslengine-6.1.26.jar jsp-2.1-6.1.14.jar api-asn1-api-1.0.0
+ -M20.jar hive-storage-api-2.1.1.jar jdo-api-3.0.1.jar libthrift-0.9.3
+ .jar commons-collections-3.2.2.jar commons-cli-1.2.jar jasper-compile
+ r-5.5.23.jar stringtemplate-3.2.1.jar httpclient-4.4.jar hbase-common
+ -1.1.1.jar htrace-core-3.1.0-incubating.jar jackson-core-2.4.2.jar jo
+ ni-2.1.2.jar jline-0.9.94.jar leveldbjni-all-1.8.jar snappy-java-1.0.
+ 4.1.jar paranamer-2.3.jar java-xmlbuilder-0.4.jar commons-dbcp-1.4.ja
+ r commons-lang3-3.1.jar fastutil-6.5.6.jar commons-configuration-1.6.
+ jar javolution-5.5.1.jar hadoop-yarn-server-web-proxy-2.6.1.jar activ
+ ation-1.1.jar hadoop-yarn-server-resourcemanager-2.6.1.jar curator-fr
+ amework-2.6.0.jar servlet-api-2.5-6.1.14.jar opencsv-2.3.jar guice-as
+ sistedinject-3.0.jar log4j-1.2-api-2.4.1.jar jetty-util-6.1.26.jar ha
+ doop-mapreduce-client-jobclient-2.7.1.jar httpcore-4.4.jar xz-1.0.jar
+  javax.servlet-3.0.0.v201112011016.jar hadoop-annotations-2.6.4.jar j
+ ersey-client-1.9.jar bonecp-0.8.0.RELEASE.jar commons-logging-1.1.3.j
+ ar log4j-api-2.4.1.jar servlet-api-2.5.jar hadoop-mapreduce-client-sh
+ uffle-2.7.1.jar xmlenc-0.52.jar hbase-server-1.1.1.jar findbugs-annot
+ ations-1.3.9-1.jar ant-launcher-1.9.1.jar libfb303-0.9.3.jar metrics-
+ json-3.1.0.jar hamcrest-core-1.3.jar hive-shims-common-2.1.1.jar hbas
+ e-hadoop2-compat-1.1.1.jar hadoop-common-2.6.4.jar joda-time-2.5.jar 
+ netty-3.7.0.Final.jar slf4j-log4j12-1.7.5.jar htrace-core-3.0.4.jar t
+ will-discovery-core-0.6.0-incubating.jar hive-shims-0.23-2.1.1.jar sl
+ ider-core-0.90.2-incubating.jar commons-beanutils-core-1.8.0.jar asm-
+ commons-3.1.jar geronimo-jta_1.1_spec-1.1.1.jar dropwizard-metrics-ha
+ doop-metrics2-reporter-0.1.2.jar jets3t-0.9.0.jar guava-11.0.2.jar cu
+ rator-recipes-2.6.0.jar zookeeper-3.4.6.jar hadoop-yarn-common-2.5.1.
+ jar commons-math3-3.1.1.jar jackson-jaxrs-1.8.3.jar metrics-core-2.2.
+ 0.jar commons-compress-1.4.1.jar jetty-6.1.26.jar transaction-api-1.1
+ .jar jackson-databind-2.4.2.jar asm-3.1.jar hbase-common-1.1.1-tests.
+ jar jersey-guice-1.9.jar datanucleus-api-jdo-4.2.1.jar jackson-core-a
+ sl-1.9.13.jar stax-api-1.0-2.jar geronimo-annotation_1.0_spec-1.1.1.j
+ ar hadoop-mapreduce-client-app-2.7.1.jar jersey-json-1.9.jar apacheds
+ -kerberos-codec-2.0.0-M15.jar twill-zookeeper-0.6.0-incubating.jar gu
+ ice-servlet-3.0.jar jcommander-1.30.jar
+Main-Class: 
+
